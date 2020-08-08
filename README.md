@@ -5,7 +5,7 @@
 </a>
 <a href="https://www.instagram.com/luispaulo.degini/">
   <img align="left" alt="Luis Paulo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a><br/>
 
 <br />
 
