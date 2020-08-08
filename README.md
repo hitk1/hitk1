@@ -20,7 +20,7 @@ I'm working with web back end development from Brazil, São Paulo at 👨 [Cia I
 - 👨 A community team member:<br />
         [React Developers - ReactJS & React Native Professional Development Mastermind](https://www.linkedin.com/groups/6519652/)<br />
         [Rocketseat](https://discord.com/channels/327861810768117763/491458400203571210)
-- 🤔 I’m looking for help with GraphQL and Domain Drive Development;
+- 🤔 I’m looking for help with GraphQL and Domain Driven Development;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: luispaulo.degini@gmail.com
 
