@@ -8,6 +8,7 @@
 </a>
 
 <br />
+
 I'm working with web back end development from Brazil, São Paulo at 👨 [Cia Integrativa](http://ciaintegrativa.com.br/). System Analyst and developer graduated by [IFSP-Catanduva](https://ctd.ifsp.edu.br/). In love to study mobile development ReactJS and React Native in specific.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="400"/>
