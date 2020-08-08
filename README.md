@@ -9,13 +9,13 @@
 
 <br />
 
-I'm working with web back end development from Brazil, São Paulo at 👨 [Cia Integrativa](http://ciaintegrativa.com.br/). System Analyst and developer graduated by [IFSP-Catanduva](https://ctd.ifsp.edu.br/). In love to study mobile development ReactJS and React Native in specific.
+I'm working with web back end development from Brazil, São Paulo at 👨 [Cia Integrativa](http://ciaintegrativa.com.br/). System Analyst and developer graduated by [IFSP-Catanduva](https://ctd.ifsp.edu.br/). Passionate to study mobile development ReactJS and React Native in specific.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="400"/>
 
 **Little bit more about me:**
 
-- 👨 I’m currently working on [Cia Integrativa](http://ciaintegrativa.com.br/)
+- 👨 I’m currently working at [Cia Integrativa](http://ciaintegrativa.com.br/)
 - 🌱 I’m currently learning React Native and Animation API; 
 - 👨 A community team member:<br />
         [React Developers - ReactJS & React Native Professional Development Mastermind](https://www.linkedin.com/groups/6519652/)<br />
@@ -26,6 +26,6 @@ I'm working with web back end development from Brazil, São Paulo at 👨 [Cia I
 
 
 
-**Where I spend my time**
+**Where I spend my time:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitk1&layout=compact)](https://github.com/hitk1/github-readme-stats)
