@@ -9,7 +9,7 @@
 
 <br />
 
-I'm working with web backend development from Brazil, Porto Alegre at 👨 [Younner](https://www.younner.com/). System Analyst and developer graduated by [IFSP-Catanduva](https://ctd.ifsp.edu.br/). Passionate to study and grow up my full stack skills.
+I'm working with web backend development from Brazil, São Paulo at 👨 [OSF Digital](https://osf.digital/). System Analyst and developer graduated by [IFSP-Catanduva](https://ctd.ifsp.edu.br/). Passionate to study and grow up my full stack skills.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="400"/>
 
@@ -17,11 +17,8 @@ I'm working with web backend development from Brazil, Porto Alegre at 👨 [Youn
 
 **Little bit more about me:**
 
-- 👨 I’m currently working at [Younner](https://www.younner.com/)
+- 👨 I’m currently working at [OSF  Digital](https://osf.digital/)
 - 🌱 I’m currently studying NodeJS, Elixir & NextJS; 
-- 👨 A community team member:<br />
-        [React Developers - ReactJS & React Native Professional Development Mastermind](https://www.linkedin.com/groups/6519652/)<br />
-        [Rocketseat](https://discord.com/channels/327861810768117763/491458400203571210)
 - 🤔 I’m looking for help with responsive design;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: luispaulo.degini@gmail.com
